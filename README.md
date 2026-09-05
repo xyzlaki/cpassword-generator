@@ -65,6 +65,6 @@ password_generator.exe
 
 Use code with caution.
 
-### 📜 License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
